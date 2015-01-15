@@ -2,6 +2,8 @@
 
 Iconic font for devisio.
 
+![icon samples](https://raw.githubusercontent.com/wiki/devisio/devisio-icons/assets/devisio-icons-256.jpg)
+
 ## References
 
 Photo and journal icons are inspired by [Typicons](https://github.com/stephenhutchings/typicons.font) by [@stephenhutchings](https://github.com/stephenhutchings) (CC BY-SA 3.0).
