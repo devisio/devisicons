@@ -4,7 +4,7 @@ Iconic font for devisio.
 
 ## References
 
-Photo icon is inspired by [Typicons](https://github.com/stephenhutchings/typicons.font) by [@stephenhutchings](https://github.com/stephenhutchings) (CC BY-SA 3.0).
+Photo and journal icons are inspired by [Typicons](https://github.com/stephenhutchings/typicons.font) by [@stephenhutchings](https://github.com/stephenhutchings) (CC BY-SA 3.0).
 
 ## License
 
